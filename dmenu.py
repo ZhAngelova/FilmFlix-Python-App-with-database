@@ -15,7 +15,7 @@ def read_file(file_path):
     except FileExistsError as ne:
         print(f"File not exists: {ne}")
 
-#print(read_file("PythonWorkingFiles/FilmFlix Project/dbMenu.txt")) just check!
+#print(read_file("PythonWorkingFiles/FilmFlix/dbMenu.txt")) just check!
 
 
 # add try - except?!
